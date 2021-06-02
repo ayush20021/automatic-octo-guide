@@ -1,0 +1,3 @@
+var ayush = (49)
+var _ayush = (50)
+console.log(ayush)
